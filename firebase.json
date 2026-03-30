@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site":"album-art",
     "public": "dist",
     "ignore": [
       "firebase.json",
