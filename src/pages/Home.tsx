@@ -48,7 +48,7 @@ export default function Home() {
             <Camera size={40} />
           </div>
           <h1 className="text-3xl font-bold tracking-tight text-gray-900">
-            PicVault
+            안녕하세요~
           </h1>
           <p className="text-sm text-gray-500">
             GVCS 전용 클라우드 사진첩에 오신 것을 환영합니다.<br />
